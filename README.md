@@ -1,7 +1,7 @@
 mcp-junkies-lua
 ===============
 
-Code examples from MCP Junkies Meetup Talk.
+Code examples from talk at [MoCo Programming Language Junkies Meetup](http://www.meetup.com/mcpjunkies/)
 
 ### Converting Asynchronous Code to Synchronous Code with Embedded Lua
 
